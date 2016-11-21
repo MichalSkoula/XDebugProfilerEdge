@@ -1,6 +1,6 @@
 {
     "name" : "XDebugProfiler",
-    "version" : "1.0.0.0",
+    "version" : "1.0.0.1",
     "author" : "Michal Škoula",
     "browser_action" : 
     {
@@ -20,7 +20,7 @@
 
     "content_security_policy" : "script-src 'self'; object-src 'self'",
     "default_locale" : "en",
-    "description" : "Simply adds XDEBUG_PROFILE to URL so you can trigger XDebug Profile",
+    "description" : "Simply adds XDEBUG_PROFILE to cookies so you can trigger XDebug Profile on and of",
 
     "permissions" : 
     [
